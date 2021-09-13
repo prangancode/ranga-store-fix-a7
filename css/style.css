@@ -38,9 +38,11 @@ body {
 .single-product {
   padding: 10px;
   transition: 0.6s;
-  background-color: rgb(226, 235, 213);
+  background-color: rgb(229, 241, 211);
   min-height: 350px;
   border-radius: 10px;
+  margin-left: 20px;
+  margin-bottom: 15px;
 }
 .single-product:hover {
   box-shadow: 4px 4px 7px rgb(47, 61, 47);
