@@ -38,6 +38,8 @@ body {
 .single-product {
   padding: 10px;
   transition: 0.6s;
+  background-color: rgb(226, 235, 213);
+  /* height: 35rem; */
 }
 .single-product:hover {
   box-shadow: 4px 4px 7px rgb(163,197,163);
