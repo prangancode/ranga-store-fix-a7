@@ -39,12 +39,13 @@ body {
   padding: 10px;
   transition: 0.6s;
   background-color: rgb(226, 235, 213);
-  /* height: 35rem; */
+  min-height: 350px;
+  border-radius: 10px;
 }
 .single-product:hover {
-  box-shadow: 4px 4px 7px rgb(163,197,163);
+  box-shadow: 4px 4px 7px rgb(47, 61, 47);
   border-radius: 10px;
-  border: 2px solid rgb(36, 51, 14);
+  border: 3px solid rgb(12, 15, 6);
 }
 .product-image {
   width: 150px;
